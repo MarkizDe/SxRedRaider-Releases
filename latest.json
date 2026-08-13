@@ -1,8 +1,8 @@
 {
-  "version": "2.2.1",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.1/SxRedRaider.exe",
-  "sha256": "1C79EA388623AE56299923B6CA951CD41761CD6ED6CB06AA2B0B2A5793EBB4E0",
-  "size": 141903520,
+  "version": "2.2.3",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.3/SxRedRaider.exe",
+  "sha256": "65AA0AC5E40B54576254A6CE49BFCDE8D022EEC9A570927469721A83F7D9D0FA",
+  "size": 141907016,
   "mandatory": false,
-  "notes": "Добавлен Random warming со случайным порядком аккаунтов и случайным временем прогрева Min/Max; улучшена работа ADBKeyboard на Android 14 с резервным обычным вводом; обновлён FullAuto; удалены Endpoint check и bypass; усилена проверка лицензии."
+  "notes": "Исправлен мгновенный запуск первого эмулятора Warming; следующие эмуляторы запускаются с интервалом 20–40 секунд; STOP и PAUSE изолированы по режимам."
 }
