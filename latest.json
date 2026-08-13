@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.1.0/SxRedRaider.exe",
-  "sha256": "C5D32ACD2C34403CEA63C0173A15387D29615C6CFAB34B6A5E9C131FC3261764",
-  "size": 141872821,
-  "mandatory": false,
-  "notes": "Добавлена безопасная система обновлений через GitHub Releases с проверкой SHA-256, резервной копией и автоматическим откатом."
+    "version":  "2.2.0",
+    "url":  "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.0/SxRedRaider.exe",
+    "sha256":  "7A4A4BBA1DEB16532293962C8E02C7869693B7C3CA370A288B60921B0C67AB60",
+    "size":  141913766,
+    "mandatory":  false,
+    "notes":  "Исправлена ADBKeyboard на Android 14, добавлен резервный обычный ввод, обновлён FullAuto, удалены Endpoint Check и Bypass, усилена защита лицензии."
 }
