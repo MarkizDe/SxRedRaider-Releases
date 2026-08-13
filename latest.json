@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.0.0/SxRedRaider.exe",
-  "sha256": "0D690320734C2A7A78E41562F57F0D8A480B655C7D45DF5DE19FDBB03753310B",
-  "size": 134602047,
+  "version": "2.1.0",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.1.0/SxRedRaider.exe",
+  "sha256": "C5D32ACD2C34403CEA63C0173A15387D29615C6CFAB34B6A5E9C131FC3261764",
+  "size": 141872821,
   "mandatory": false,
-  "notes": "Первая версия системы удалённых обновлений."
+  "notes": "Добавлена безопасная система обновлений через GitHub Releases с проверкой SHA-256, резервной копией и автоматическим откатом."
 }
