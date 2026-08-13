@@ -1,8 +1,8 @@
 {
-    "version":  "2.1.0",
-    "url":  "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.1.0/SxRedRaider.exe",
-    "sha256":  "C5D32ACD2C34403CEA63C0173A15387D29615C6CFAB34B6A5E9C131FC3261764",
-    "size":  141872821,
-    "mandatory":  false,
-    "notes":  "Добавлена безопасная система обновлений через GitHub Releases с проверкой SHA-256, резервной копией и автоматическим откатом."
+  "version": "2.2.1",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.1/SxRedRaider.exe",
+  "sha256": "1C79EA388623AE56299923B6CA951CD41761CD6ED6CB06AA2B0B2A5793EBB4E0",
+  "size": 141903520,
+  "mandatory": false,
+  "notes": "Добавлен Random warming со случайным порядком аккаунтов и случайным временем прогрева Min/Max; улучшена работа ADBKeyboard на Android 14 с резервным обычным вводом; обновлён FullAuto; удалены Endpoint check и bypass; усилена проверка лицензии."
 }
