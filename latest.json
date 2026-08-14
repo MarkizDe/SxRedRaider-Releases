@@ -1,8 +1,8 @@
 {
-  "version": "2.2.3",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.3/SxRedRaider.exe",
-  "sha256": "65AA0AC5E40B54576254A6CE49BFCDE8D022EEC9A570927469721A83F7D9D0FA",
-  "size": 141907016,
+  "version": "2.2.5",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.5/SxRedRaider.exe",
+  "sha256": "90C250BCED6F4F3711441757891ECFB7DED2A98861A850D911D4D05C9EBCFE88",
+  "size": 141909365,
   "mandatory": false,
-  "notes": "Исправлен мгновенный запуск первого эмулятора Warming; следующие эмуляторы запускаются с интервалом 20–40 секунд; STOP и PAUSE изолированы по режимам."
+  "notes": "Исправлена ложная остановка авторизованных аккаунтов по значку X; реклама и всплывающие окна закрываются без определения разлогина; сохранены исправления ADBKeyboard для Android 14 и резервного ввода."
 }
