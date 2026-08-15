@@ -1,8 +1,1 @@
-{
-  "version": "2.2.5",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.5/SxRedRaider.exe",
-  "sha256": "90C250BCED6F4F3711441757891ECFB7DED2A98861A850D911D4D05C9EBCFE88",
-  "size": 141909365,
-  "mandatory": false,
-  "notes": "Исправлена ложная остановка авторизованных аккаунтов по значку X; реклама и всплывающие окна закрываются без определения разлогина; сохранены исправления ADBKeyboard для Android 14 и резервного ввода."
-}
+{"version":"2.2.6","url":"https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.6/SxRedRaider.exe","sha256":"674C63AE0967E40D5BCA3A5613811A7A237976ABF2035887BE50EA1B589AF537","size":141913891,"mandatory":false,"notes":"Added support for both Reddit comment send variants: the top Post button and the round arrow button in the lower-right corner."}
