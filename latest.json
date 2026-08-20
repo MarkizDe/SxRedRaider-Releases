@@ -1,8 +1,8 @@
 {
-  "version": "2.2.11",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.11/SxRedRaider.exe",
-  "sha256": "82A580C056E51003429724E07C8D3FC39669F9DA914ABEE0520F2B72440A29F0",
-  "size": 142465348,
+  "version": "2.2.12",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.12/SxRedRaider.exe",
+  "sha256": "FE45C420FA0C45EAE469E2698CB2A7404D94B2F671A0E16DF38C92B943869C50",
+  "size": 142466469,
   "mandatory": false,
-  "notes": "Fixed LDPlayer ADB connection after 2.2.10 and made queued emulator startup cancellable."
+  "notes": "Fast Mode now scrolls the Reddit feed for 11-33 seconds before commenting and 11-43 seconds after a successful send."
 }
