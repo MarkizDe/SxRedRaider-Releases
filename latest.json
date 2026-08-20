@@ -1,1 +1,8 @@
-{"version":"2.2.9","url":"https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.9/SxRedRaider.exe","sha256":"59AF09D7156EFC51040096030566CB9822255F80F91114AB5478D482A61EA422","size":128500904,"mandatory":false,"notes":"Hotfix: fixed the Qt5Gui.dll extraction error in the 2.2.8 package. Plan mode Start continues to launch emulators correctly for Commenting steps."}
+{
+  "version": "2.2.10",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.10/SxRedRaider.exe",
+  "sha256": "F33872D4CE4E63130411F33660C98C55CA9DE14C79758C15C1B1361BE76C61DB",
+  "size": 142465481,
+  "mandatory": false,
+  "notes": "Fixed simultaneous Warming and Commenting startup and verified ADB routing to the correct emulator."
+}
