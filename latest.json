@@ -1,8 +1,8 @@
 {
-  "version": "2.2.13",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.13/SxRedRaider.exe",
-  "sha256": "ECBD7CA50F5B7097B537F0070F078A45CD6F36A74496F4682B04F821EB278ABB",
-  "size": 123695991,
+  "version": "2.2.14",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.14/SxRedRaider.exe",
+  "sha256": "CB8CEFC60368051A2D975A2514104C07F990AB5D70D3D02540F6E4EBF0035EA3",
+  "size": 123705854,
   "mandatory": false,
-  "notes": "Improved graceful shutdown, minitouch lifecycle, transient OpenAI retries, Unicode phrase filtering, and gesture/session variability."
+  "notes": "Warming and Commenting can run in parallel with one emulator per mode; emulator shutdown is confirmed through LDPlayer and ADB; Commenting scrolls to the post start; logs include mode and emulator context."
 }
