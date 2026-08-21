@@ -1,8 +1,8 @@
 {
-  "version": "2.2.16",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.16/SxRedRaider.exe",
-  "sha256": "FE45C420FA0C45EAE469E2698CB2A7404D94B2F671A0E16DF38C92B943869C50",
-  "size": 142466469,
+  "version": "2.2.13",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.13/SxRedRaider.exe",
+  "sha256": "ECBD7CA50F5B7097B537F0070F078A45CD6F36A74496F4682B04F821EB278ABB",
+  "size": 123695991,
   "mandatory": false,
   "notes": "Warming and Commenting can run in parallel with one emulator per mode; emulator shutdown is confirmed through LDPlayer and ADB; Commenting scrolls to the post start; logs include mode and emulator context."
 }
