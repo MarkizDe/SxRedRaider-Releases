@@ -1,8 +1,8 @@
 {
-  "version": "2.2.16",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.16/SxRedRaider.exe",
-  "sha256": "CDDE433EE6A3223EE9F3231C8CB9A5B64E1DD07679C0E9FBA8F8E6439AF35CFB",
-  "size": 141965258,
-  "mandatory": true,
-  "notes": "Откат к стабильному коду 2.2.12. Удалены изменения 2.2.13–2.2.15; восстановлена стабильная работа режимов и управление LDPlayer из 2.2.12."
+  "version": "2.2.20",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.20/SxRedRaider.exe",
+  "sha256": "EB74F067249DA086847DFF6C599B6C4B7BC9B71F888C6F2C0D265312EE6C633A",
+  "size": 124059478,
+  "mandatory": false,
+  "notes": "AI Beta с постоянными личностями и тремя группами сабреддитов; вероятностный комментинг в AI Beta и FullAuto; активность и апвоуты через ленты; эксклюзивное владение эмулятором; пауза полностью замораживает активное время; из Warming удалено расписание активных часов."
 }
