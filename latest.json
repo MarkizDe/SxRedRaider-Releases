@@ -1,8 +1,8 @@
 {
-  "version": "2.2.20",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.20/SxRedRaider.exe",
-  "sha256": "EB74F067249DA086847DFF6C599B6C4B7BC9B71F888C6F2C0D265312EE6C633A",
-  "size": 124059478,
-  "mandatory": false,
-  "notes": "AI Beta с постоянными личностями и тремя группами сабреддитов; вероятностный комментинг в AI Beta и FullAuto; активность и апвоуты через ленты; эксклюзивное владение эмулятором; пауза полностью замораживает активное время; из Warming удалено расписание активных часов."
+    "version":  "2.2.21",
+    "url":  "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.21/SxRedRaider.exe",
+    "sha256":  "B60258867CEA0AEB53CFD95B2200407B944C4D7271CFDACF9341B518F327C6C8",
+    "size":  113252879,
+    "mandatory":  false,
+    "notes":  "В Warming полностью удалён возрастной soft_restart и использование account_age_state.json. soft_restart сохранён только для восстановления после реальных повторяющихся критических ошибок. Исправлен таймер ожидания ADB после аварийного reconnect. Строгая защита от SuperProxy не включена; FullAuto, Commenting и AI Beta по этому пункту работают по прежней логике."
 }
