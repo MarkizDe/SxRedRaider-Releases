@@ -1,8 +1,8 @@
 {
-    "version":  "2.2.30",
-    "url":  "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.30/SxRedRaider.exe",
-    "sha256":  "9C6E6CB04D887D2DCD7BBCB740502642AFFDD68F8AB8C97A79E3BB94DAD44137",
-    "size":  124712952,
+    "version":  "2.2.31",
+    "url":  "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.31/SxRedRaider.exe",
+    "sha256":  "0B4F8A0725E967C6555F81737F4992E35DA599CC868CEF958755D4E6E93C44D5",
+    "size":  124716379,
     "mandatory":  false,
-    "notes":  "Полный браузерный режим для Warming, Commenting, FullAuto, AI Beta и Plan; восстановление Chrome и закрытие вкладок; автоматический переход в Chrome, если Reddit не установлен; исправленные Pause/Stop и сохранение Plan; единый менеджер эмуляторов без галочек; ускоренный набор комментариев."
+    "notes":  "Исправлено оформление менеджера эмуляторов: убрано чередование цветов и белые полосы во всех режимах. В веб-режиме добавлено автоматическое нажатие No thanks в системном окне уведомлений Chrome."
 }
