@@ -1,8 +1,8 @@
 {
-    "version":  "2.2.21",
-    "url":  "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.21/SxRedRaider.exe",
-    "sha256":  "B60258867CEA0AEB53CFD95B2200407B944C4D7271CFDACF9341B518F327C6C8",
-    "size":  113252879,
+    "version":  "2.2.30",
+    "url":  "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.30/SxRedRaider.exe",
+    "sha256":  "9C6E6CB04D887D2DCD7BBCB740502642AFFDD68F8AB8C97A79E3BB94DAD44137",
+    "size":  124712952,
     "mandatory":  false,
-    "notes":  "В Warming полностью удалён возрастной soft_restart и использование account_age_state.json. soft_restart сохранён только для восстановления после реальных повторяющихся критических ошибок. Исправлен таймер ожидания ADB после аварийного reconnect. Строгая защита от SuperProxy не включена; FullAuto, Commenting и AI Beta по этому пункту работают по прежней логике."
+    "notes":  "Полный браузерный режим для Warming, Commenting, FullAuto, AI Beta и Plan; восстановление Chrome и закрытие вкладок; автоматический переход в Chrome, если Reddit не установлен; исправленные Pause/Stop и сохранение Plan; единый менеджер эмуляторов без галочек; ускоренный набор комментариев."
 }
