@@ -1,8 +1,8 @@
 {
-    "version":  "2.2.31",
-    "url":  "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.31/SxRedRaider.exe",
-    "sha256":  "0B4F8A0725E967C6555F81737F4992E35DA599CC868CEF958755D4E6E93C44D5",
-    "size":  124716379,
+    "version":  "2.2.32",
+    "url":  "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.32/SxRedRaider.exe",
+    "sha256":  "FD9E662F6666EAFD64E3DB301831624125609E663EE9B7779A75DD6AA2887BA3",
+    "size":  113912917,
     "mandatory":  false,
-    "notes":  "Исправлено оформление менеджера эмуляторов: убрано чередование цветов и белые полосы во всех режимах. В веб-режиме добавлено автоматическое нажатие No thanks в системном окне уведомлений Chrome."
+    "notes":  "Исправлена проверка SuperProxy во всех режимах. Кнопки Start и Stop теперь различаются только цветной проверкой с повышенной точностью и двойным подтверждением рабочего состояния. Reddit и Chrome не запускаются, если прокси не включён или не подтверждён."
 }
