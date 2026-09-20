@@ -1,8 +1,8 @@
 {
-    "version":  "2.2.32",
-    "url":  "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.32/SxRedRaider.exe",
-    "sha256":  "FD9E662F6666EAFD64E3DB301831624125609E663EE9B7779A75DD6AA2887BA3",
-    "size":  113912917,
+    "version":  "2.2.33",
+    "url":  "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.33/SxRedRaider.exe",
+    "sha256":  "D401B6BCFFD826C5437D4F00706B7F09C005502068E6629ECCE73CEF266BB6CE",
+    "size":  113916586,
     "mandatory":  false,
-    "notes":  "Исправлена проверка SuperProxy во всех режимах. Кнопки Start и Stop теперь различаются только цветной проверкой с повышенной точностью и двойным подтверждением рабочего состояния. Reddit и Chrome не запускаются, если прокси не включён или не подтверждён."
+    "notes":  "Исправлено комментирование в браузерной версии. Софт открывает New, пропускает закреплённые, служебные и рекламные карточки, выбирает первый обычный пост, надёжно открывает редактор и проверяет отправку. Тайм-аут DevTools больше не закрывает эмулятор, если нужная страница уже открыта. Изменения действуют в Commenting, Plan, FullAuto и AI Beta."
 }
