@@ -1,8 +1,8 @@
 {
-    "version":  "2.2.44",
-    "url":  "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.44/SxRedRaider.exe",
-    "sha256":  "D8CA4CCA32B462EF14198D86EE0F257CF9A1CB76A25A395920261509BBF3407A",
-    "size":  122159645,
+    "version":  "2.2.45",
+    "url":  "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.45/SxRedRaider.exe",
+    "sha256":  "5BA562FB126D9BFABA47BA7286DFBBD8E866DD61B6270FC3D0E253615732128F",
+    "size":  122167298,
     "mandatory":  false,
-    "notes":  "Добавлен режим Posting с публикацией изображений, очередью, flair, прогревом и проверкой подписки. Улучшены загрузка изображения, ожидание публикации, подтверждение правил Reddit и веб-комментирование. В 2.2.44 устранено повторное открытие главной ленты во время прогрева."
+    "notes":  "Повышена стабильность браузерного режима: переиспользование вкладки Reddit, восстановление после about:blank, переподключение DevTools, три перезагрузки страницы и аварийный перезапуск только Chrome. Улучшены апвоуты комментариев, переходы в сабреддиты и обработка пустого Latest через Discover communities. Сборка содержит полный Posting с прогревом."
 }
