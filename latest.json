@@ -1,8 +1,10 @@
 {
-  "version": "2.2.54",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.54/SxRedRaider.exe",
-  "sha256": "6F96F29951403B87DB5AFDC043DE5A4258B5FA7EECA0F6226B2D810044F36018",
-  "size": 131306267,
+  "version": "2.2.55",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.55/SxRedRaider.exe",
+  "sha256": "62916CD0A9C50555C07521BF6D859430A4F806DD5F752D8B9A2C2EBC8EB0BE5F",
+  "size": 125204468,
   "mandatory": true,
-  "notes": "Исправлена глобальная блокировка очереди при повторном сбросе защищённых настроек одного эмулятора: проблемный экземпляр пропускается, а софт продолжает работу со следующим. Общая остановка сохраняется только при последовательном сбое двух разных эмуляторов. Пользовательские настройки, профили, планы, очереди и журналы сохраняются."
+  "notes": "Обязательное обновление защиты: latest.json подписан Ed25519, лицензия V3 привязана к точному build ID и SHA-256 разрешённого EXE, критичные модули собраны нативно. Подмена манифеста, EXE и повтор старого ответа лицензии отклоняются. Пользовательские настройки, профили, планы, очереди, прокси и журналы сохраняются.",
+  "key_id": "d401d20c07726f62",
+  "signature": "gP2cjsLdtc4xM5SGOMfRHCfZniBXtwIyirzf2dXdE1kavGO2LlcmfpAEgurD_2WWqq4mZL3uMtPqKj5ei_1WAQ"
 }
