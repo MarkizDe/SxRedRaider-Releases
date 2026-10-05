@@ -1,10 +1,10 @@
 {
-  "version": "2.2.55",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.55/SxRedRaider.exe",
-  "sha256": "62916CD0A9C50555C07521BF6D859430A4F806DD5F752D8B9A2C2EBC8EB0BE5F",
-  "size": 125204468,
+  "version": "2.2.56",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.56/SxRedRaider.exe",
+  "sha256": "F964F5272E691C6E950B5AC8C229AAD71723CBE680F4AEBFEE29EF79A7187E57",
+  "size": 125224920,
   "mandatory": true,
-  "notes": "Обязательное обновление защиты: latest.json подписан Ed25519, лицензия V3 привязана к точному build ID и SHA-256 разрешённого EXE, критичные модули собраны нативно. Подмена манифеста, EXE и повтор старого ответа лицензии отклоняются. Пользовательские настройки, профили, планы, очереди, прокси и журналы сохраняются.",
+  "notes": "Обновление интерфейса и стабильности: добавлены компактное боковое меню, русский и английский языки, единая панель логов. При кратковременной недоступности сервера лицензии клиент больше не создаёт шторм повторных запросов. Настройки, профили, планы, очереди, прокси и журналы сохраняются.",
   "key_id": "d401d20c07726f62",
-  "signature": "gP2cjsLdtc4xM5SGOMfRHCfZniBXtwIyirzf2dXdE1kavGO2LlcmfpAEgurD_2WWqq4mZL3uMtPqKj5ei_1WAQ"
+  "signature": "mq94-LgN0laaJV1SUcHejIysWydxTqz52xsfFScVI4NInO9oF87pwUGsAqajeEyLegoMN9yCoKwdGPip4amIDg"
 }
