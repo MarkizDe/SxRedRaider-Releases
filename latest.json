@@ -1,10 +1,10 @@
 {
-  "version": "2.2.56",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.56/SxRedRaider.exe",
-  "sha256": "F964F5272E691C6E950B5AC8C229AAD71723CBE680F4AEBFEE29EF79A7187E57",
-  "size": 125224920,
+  "version": "2.2.58",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.58/SxRedRaider.exe",
+  "sha256": "CE3B9F845A866416D75CE409FF06DC06E09DD0C8B31971F6061BBD17DE89129A",
+  "size": 124261645,
   "mandatory": true,
-  "notes": "Обновление интерфейса и стабильности: добавлены компактное боковое меню, русский и английский языки, единая панель логов. При кратковременной недоступности сервера лицензии клиент больше не создаёт шторм повторных запросов. Настройки, профили, планы, очереди, прокси и журналы сохраняются.",
+  "notes": "Улучшена стабильность запуска прогрева и ADB, добавлено редактирование эмуляторов в Combo-плане, удобный выбор и поиск эмуляторов. Исправлено сворачивание бокового меню, удалена кнопка LD Magic, видимое название изменено на RedRaider. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
   "key_id": "d401d20c07726f62",
-  "signature": "mq94-LgN0laaJV1SUcHejIysWydxTqz52xsfFScVI4NInO9oF87pwUGsAqajeEyLegoMN9yCoKwdGPip4amIDg"
+  "signature": "8VJmwhG2pHN3g7ndLPfEIy2kTvS5PIbZw9M0YxG464eAPED66oPY2f5O68vuh8hkUNz2IJjri61JyT3FOEchCg"
 }
