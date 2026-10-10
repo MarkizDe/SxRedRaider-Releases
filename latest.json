@@ -1,10 +1,10 @@
 {
-  "version": "2.2.58",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.58/SxRedRaider.exe",
-  "sha256": "CE3B9F845A866416D75CE409FF06DC06E09DD0C8B31971F6061BBD17DE89129A",
-  "size": 124261645,
+  "version": "2.2.60",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.60/SxRedRaider.exe",
+  "sha256": "a1d802d5aa0f826870b5e75fe2e7a2ba4f3fbc6f257bb9e156bb5d9fcb5db101",
+  "size": 126114020,
   "mandatory": true,
-  "notes": "Улучшена стабильность запуска прогрева и ADB, добавлено редактирование эмуляторов в Combo-плане, удобный выбор и поиск эмуляторов. Исправлено сворачивание бокового меню, удалена кнопка LD Magic, видимое название изменено на RedRaider. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
+  "notes": "Исправлено подтверждение заголовка и ожидание публикации в веб-режиме, улучшена адаптация интерфейса под разные разрешения. ADBKeyboard больше не устанавливается и не переключается: текст сразу вводится основным способом. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
   "key_id": "d401d20c07726f62",
-  "signature": "8VJmwhG2pHN3g7ndLPfEIy2kTvS5PIbZw9M0YxG464eAPED66oPY2f5O68vuh8hkUNz2IJjri61JyT3FOEchCg"
+  "signature": "o318U59CDLvC0wgVPV0scN_F91Hxp7QtiHUswQMIfcHA7lov1Z_RhQ7SB8mZ4w5XpnlccUjBcHT4BS8SeMiXDA"
 }
