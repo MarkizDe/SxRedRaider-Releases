@@ -1,0 +1,33 @@
+name: Publish RedRaider 2.2.61
+
+on:
+  push:
+    tags:
+      - v2.2.61
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out release payload
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Verify release executable
+        shell: bash
+        run: echo "f7cbbfc9f36e78e4ac7e6ab416e02557be8da5a3ee13aba1acb2549c68ed8097  SxRedRaider.exe" | sha256sum -c -
+
+      - name: Attach executable and publish release
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1; then
+            gh release create "$GITHUB_REF_NAME" --draft --title "RedRaider 2.2.61" --notes-file CHANGELOG_2.2.61_RU.md
+          fi
+          gh release upload "$GITHUB_REF_NAME" SxRedRaider.exe --clobber
+          gh release edit "$GITHUB_REF_NAME" --title "RedRaider 2.2.61" --notes-file CHANGELOG_2.2.61_RU.md --draft=false --prerelease=false --latest
