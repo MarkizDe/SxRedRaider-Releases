@@ -1,10 +1,10 @@
 {
-  "version": "2.2.60",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.60/SxRedRaider.exe",
-  "sha256": "a1d802d5aa0f826870b5e75fe2e7a2ba4f3fbc6f257bb9e156bb5d9fcb5db101",
-  "size": 126114020,
+  "version": "2.2.61",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.61/SxRedRaider.exe",
+  "sha256": "f7cbbfc9f36e78e4ac7e6ab416e02557be8da5a3ee13aba1acb2549c68ed8097",
+  "size": 126141892,
   "mandatory": true,
-  "notes": "Исправлено подтверждение заголовка и ожидание публикации в веб-режиме, улучшена адаптация интерфейса под разные разрешения. ADBKeyboard больше не устанавливается и не переключается: текст сразу вводится основным способом. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
+  "notes": "Commenting теперь пропускает служебные Welcome/r/SubGoal-карточки и выбирает следующий обычный пост. В прогреве усилено подтверждение перехода в сабреддит и добавлено полное логирование попыток и результатов. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
   "key_id": "d401d20c07726f62",
-  "signature": "o318U59CDLvC0wgVPV0scN_F91Hxp7QtiHUswQMIfcHA7lov1Z_RhQ7SB8mZ4w5XpnlccUjBcHT4BS8SeMiXDA"
+  "signature": "Smyb_MeblmJzHSBumw1-9_MH_jVD_wbwD6baD8X4HvFQvdde1gfoDhvcHNhcObgU-P9T1ZjCu0wboigCfN1LCA"
 }
