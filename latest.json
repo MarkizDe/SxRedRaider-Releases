@@ -1,10 +1,10 @@
 {
-  "version": "2.2.61",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.61/SxRedRaider.exe",
-  "sha256": "f7cbbfc9f36e78e4ac7e6ab416e02557be8da5a3ee13aba1acb2549c68ed8097",
-  "size": 126141892,
+  "version": "2.2.62",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.62/SxRedRaider.exe",
+  "sha256": "7d7c07c6f1b520c410e4aff343181ecd92ab1f7ed583fdc27b5fa4cbc523f981",
+  "size": 125148718,
   "mandatory": true,
-  "notes": "Commenting теперь пропускает служебные Welcome/r/SubGoal-карточки и выбирает следующий обычный пост. В прогреве усилено подтверждение перехода в сабреддит и добавлено полное логирование попыток и результатов. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
+  "notes": "Прогрев теперь надёжнее открывает сабреддиты по видимым карточкам Reddit и подтверждает фактический переход. В ручном прогреве возрастной коэффициент отключён: заданный диапазон времени соблюдается напрямую, а количество апвоутов на сессию задаёт пользователь. FullAuto сохраняет возрастной коэффициент. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
   "key_id": "d401d20c07726f62",
-  "signature": "Smyb_MeblmJzHSBumw1-9_MH_jVD_wbwD6baD8X4HvFQvdde1gfoDhvcHNhcObgU-P9T1ZjCu0wboigCfN1LCA"
+  "signature": "D70YP7_MjiVfU-AwhTSYdF1Alv28_AsC_DHFM-ejC3wKcqks0dPE7ZTwPcjQQPAu3aJZBlkdbbTkJwY5zyFMAQ"
 }
