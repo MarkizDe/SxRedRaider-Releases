@@ -1,10 +1,10 @@
 {
-  "version": "2.2.62",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.62/SxRedRaider.exe",
-  "sha256": "7d7c07c6f1b520c410e4aff343181ecd92ab1f7ed583fdc27b5fa4cbc523f981",
-  "size": 125148718,
+  "version": "2.2.63",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.63/SxRedRaider.exe",
+  "sha256": "f638a4da884a06bce38c9736d8da69427258d7dc0cc39f8d3ae382c596cd332a",
+  "size": 126446968,
   "mandatory": true,
-  "notes": "Прогрев теперь надёжнее открывает сабреддиты по видимым карточкам Reddit и подтверждает фактический переход. В ручном прогреве возрастной коэффициент отключён: заданный диапазон времени соблюдается напрямую, а количество апвоутов на сессию задаёт пользователь. FullAuto сохраняет возрастной коэффициент. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
+  "notes": "Поддержана новая мобильная веб-форма Reddit Create post: корректный выбор Images & Video, загрузка изображения, обязательные Title и Add flair and tags, возврат к заголовку после большого превью. Старая веб-форма продолжает определяться автоматически.",
   "key_id": "d401d20c07726f62",
-  "signature": "D70YP7_MjiVfU-AwhTSYdF1Alv28_AsC_DHFM-ejC3wKcqks0dPE7ZTwPcjQQPAu3aJZBlkdbbTkJwY5zyFMAQ"
+  "signature": "fAQbCU-BKdRI1k5eBBPNdN19SsoI7f1nBcJIXBlOvUrCelUgxpux_wOzXGq816m1eNe0NTZzIDm3Dw2HRQxADQ"
 }
