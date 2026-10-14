@@ -1,10 +1,10 @@
 {
-  "version": "2.2.63",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.63/SxRedRaider.exe",
-  "sha256": "f638a4da884a06bce38c9736d8da69427258d7dc0cc39f8d3ae382c596cd332a",
-  "size": 126446968,
+  "version": "2.2.64",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.64/SxRedRaider.exe",
+  "sha256": "06165304c0e61d33652ecbec4621badecfc10ff00ebee4f2e21f6b2e1f6c955c",
+  "size": 125167990,
   "mandatory": true,
-  "notes": "Поддержана новая мобильная веб-форма Reddit Create post: корректный выбор Images & Video, загрузка изображения, обязательные Title и Add flair and tags, возврат к заголовку после большого превью. Старая веб-форма продолжает определяться автоматически.",
+  "notes": "Исправлено зависание Posting на запуске LDPlayer: ldconsole больше не удерживает каналы вывода, этапы запуска подробно записываются в лог. Если запуск не меняется 120 секунд, софт штатно останавливает конкретный эмулятор, освобождает зависший слот и продолжает очередь. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
   "key_id": "d401d20c07726f62",
-  "signature": "fAQbCU-BKdRI1k5eBBPNdN19SsoI7f1nBcJIXBlOvUrCelUgxpux_wOzXGq816m1eNe0NTZzIDm3Dw2HRQxADQ"
+  "signature": "YdICqq2IGAE0u1DmI0NoYGC76BheG4wdmmLYzazOQSVKI9jsPw2Ulp_wVMS7phFt_5oR4OZaJykV6hE7edkmBg"
 }
