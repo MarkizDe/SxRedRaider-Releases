@@ -1,10 +1,10 @@
 {
-  "version": "2.2.64",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.64/SxRedRaider.exe",
-  "sha256": "06165304c0e61d33652ecbec4621badecfc10ff00ebee4f2e21f6b2e1f6c955c",
-  "size": 125167990,
+  "version": "2.2.66",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.66/SxRedRaider.exe",
+  "sha256": "39abc39e804d63ab193d3910ddef84fb868044520545fb5a7fa1923e005426f6",
+  "size": 123684431,
   "mandatory": true,
-  "notes": "Исправлено зависание Posting на запуске LDPlayer: ldconsole больше не удерживает каналы вывода, этапы запуска подробно записываются в лог. Если запуск не меняется 120 секунд, софт штатно останавливает конкретный эмулятор, освобождает зависший слот и продолжает очередь. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
+  "notes": "Добавлена поддержка встроенных горизонтальных flair-кнопок Reddit и исправлена прокрутка длинных web-списков flair до нужного варианта или конца. Улучшено восстановление зависших сессий LDPlayer и освобождение блокировок после watchdog и перезапуска. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
   "key_id": "d401d20c07726f62",
-  "signature": "YdICqq2IGAE0u1DmI0NoYGC76BheG4wdmmLYzazOQSVKI9jsPw2Ulp_wVMS7phFt_5oR4OZaJykV6hE7edkmBg"
+  "signature": "7J5kcxllAJvjx5_InP5hCnOHWyCYKQoItwUlj676S8m7bm7hRIg_GQaPSsPfYbZjlOZJAPz34fQMhq4QRNt7CQ"
 }
