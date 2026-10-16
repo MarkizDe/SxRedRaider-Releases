@@ -1,10 +1,10 @@
 {
-  "version": "2.2.66",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.66/SxRedRaider.exe",
-  "sha256": "39abc39e804d63ab193d3910ddef84fb868044520545fb5a7fa1923e005426f6",
-  "size": 123684431,
+  "version": "2.2.67",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.67/SxRedRaider.exe",
+  "sha256": "96e1b39f13d70c1878cedd51cf8e839f0be883223ac17d1886159a87b060d997",
+  "size": 126735676,
   "mandatory": true,
-  "notes": "Добавлена поддержка встроенных горизонтальных flair-кнопок Reddit и исправлена прокрутка длинных web-списков flair до нужного варианта или конца. Улучшено восстановление зависших сессий LDPlayer и освобождение блокировок после watchdog и перезапуска. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
+  "notes": "В очереди Posting добавлены миниатюры изображений с увеличенным просмотром и сохранённым редактированием файлов. После завершения текущей сессии очередь автоматически запускает следующее задание; усилено восстановление после зависания эмулятора. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
   "key_id": "d401d20c07726f62",
-  "signature": "7J5kcxllAJvjx5_InP5hCnOHWyCYKQoItwUlj676S8m7bm7hRIg_GQaPSsPfYbZjlOZJAPz34fQMhq4QRNt7CQ"
+  "signature": "_-EG2tCUXtOx-zxWJ3QBStLbs3c40KRdwFmNtZJAueG8amyVEYLqrD3tEtportC0Eepfl5U76ndTDhJKa4UBBw"
 }
