@@ -1,10 +1,10 @@
 {
-  "version": "2.2.67",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.67/SxRedRaider.exe",
-  "sha256": "96e1b39f13d70c1878cedd51cf8e839f0be883223ac17d1886159a87b060d997",
-  "size": 126735676,
+  "version": "2.2.68",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.68/SxRedRaider.exe",
+  "sha256": "908cf8fa31a9f6ceed2992e010598c483aebb886f5898127daad77aac28f1918",
+  "size": 126213998,
   "mandatory": true,
-  "notes": "В очереди Posting добавлены миниатюры изображений с увеличенным просмотром и сохранённым редактированием файлов. После завершения текущей сессии очередь автоматически запускает следующее задание; усилено восстановление после зависания эмулятора. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
+  "notes": "Исправлено подтверждение ссылок при Posting в веб-версии и приложении: программа проверяет точное содержимое URL, безопасно снимает фокус и один раз повторяет ввод, если Reddit не принял ссылку. Усилена изоляция изображений между заданиями, чтобы один аккаунт не мог получить файл другого задания. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
   "key_id": "d401d20c07726f62",
-  "signature": "_-EG2tCUXtOx-zxWJ3QBStLbs3c40KRdwFmNtZJAueG8amyVEYLqrD3tEtportC0Eepfl5U76ndTDhJKa4UBBw"
+  "signature": "M4_Zrjilj3q7En9mUz7q4JRauN_6A1U74Lz6OTQLWiVQte_jP2wyscIHhChd97a1Ll9hgrMKx7d-sJk6_i13AA"
 }
