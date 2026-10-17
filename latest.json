@@ -1,10 +1,10 @@
 {
-  "version": "2.2.69",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.69/SxRedRaider.exe",
-  "sha256": "ac6fb44851359d96b6fe1211e295d03ab67c110355e468c3626e7cb444c1942b",
-  "size": 126240398,
+  "version": "2.2.70",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.70/SxRedRaider.exe",
+  "sha256": "a885c54aeeca45dde035908c81306549efbc2732c63862b34d31b79f4889c54e",
+  "size": 126244023,
   "mandatory": true,
-  "notes": "Исправлена загрузка изображений в новой веб-форме Reddit: программа нажимает круглую кнопку с облаком и продолжает только после подтверждённого открытия системной галереи. Ограничено ожидание устаревших вкладок Chrome и улучшено закрытие предложения перейти в приложение. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
+  "notes": "Устранён повторный ввод длинного многострочного заголовка при публикации ссылок и других постов. Заголовки вводятся без искусственных опечаток, повторная попытка сохраняет фокус текущего поля и начинается только после подтверждения полной очистки. Если Reddit или LDPlayer не подтвердили очистку, публикация безопасно останавливается без дублирования текста. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
   "key_id": "d401d20c07726f62",
-  "signature": "yvPda42XnS_cBUIZOcK2rGKr9gtnpzDFMPhVaMZakydwX9Sl0x65MOl36PvmW41gcKb9xzdvjnNTq2IRT32JCA"
+  "signature": "UCP_RGEkIO3fNeTRXdIQ5G2uZiKrkIKDZ47uVbTaH8pHNrCIyGOXSPSCtFXYFyc5HvpgnQ8qW62DeKYzuNLoBA"
 }
