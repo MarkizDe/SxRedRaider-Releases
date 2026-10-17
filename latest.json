@@ -1,10 +1,10 @@
 {
-  "version": "2.2.68",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.68/SxRedRaider.exe",
-  "sha256": "908cf8fa31a9f6ceed2992e010598c483aebb886f5898127daad77aac28f1918",
-  "size": 126213998,
+  "version": "2.2.69",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.69/SxRedRaider.exe",
+  "sha256": "ac6fb44851359d96b6fe1211e295d03ab67c110355e468c3626e7cb444c1942b",
+  "size": 126240398,
   "mandatory": true,
-  "notes": "Исправлено подтверждение ссылок при Posting в веб-версии и приложении: программа проверяет точное содержимое URL, безопасно снимает фокус и один раз повторяет ввод, если Reddit не принял ссылку. Усилена изоляция изображений между заданиями, чтобы один аккаунт не мог получить файл другого задания. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
+  "notes": "Исправлена загрузка изображений в новой веб-форме Reddit: программа нажимает круглую кнопку с облаком и продолжает только после подтверждённого открытия системной галереи. Ограничено ожидание устаревших вкладок Chrome и улучшено закрытие предложения перейти в приложение. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
   "key_id": "d401d20c07726f62",
-  "signature": "M4_Zrjilj3q7En9mUz7q4JRauN_6A1U74Lz6OTQLWiVQte_jP2wyscIHhChd97a1Ll9hgrMKx7d-sJk6_i13AA"
+  "signature": "yvPda42XnS_cBUIZOcK2rGKr9gtnpzDFMPhVaMZakydwX9Sl0x65MOl36PvmW41gcKb9xzdvjnNTq2IRT32JCA"
 }
