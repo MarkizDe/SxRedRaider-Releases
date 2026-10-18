@@ -1,10 +1,10 @@
 {
-  "version": "2.2.70",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.70/SxRedRaider.exe",
-  "sha256": "a885c54aeeca45dde035908c81306549efbc2732c63862b34d31b79f4889c54e",
-  "size": 126244023,
+  "version": "2.2.71",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.71/SxRedRaider.exe",
+  "sha256": "41623b654fd1f1a089630e131866e0acd1f5681d4e22e963796b1ca23ce7b5ef",
+  "size": 126247655,
   "mandatory": true,
-  "notes": "Устранён повторный ввод длинного многострочного заголовка при публикации ссылок и других постов. Заголовки вводятся без искусственных опечаток, повторная попытка сохраняет фокус текущего поля и начинается только после подтверждения полной очистки. Если Reddit или LDPlayer не подтвердили очистку, публикация безопасно останавливается без дублирования текста. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
+  "notes": "Исправлено подтверждение ссылок в новой форме Reddit. Поддержаны оба корректных состояния: полный URL остаётся в поле либо Reddit заменяет его сформированной карточкой. Карточка принимается только при совпадении домена исходной ссылки и доступной кнопке Post. Устранены ложная ошибка подтверждения, лишний повторный ввод ссылки и закрытие эмулятора при уже готовом посте. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
   "key_id": "d401d20c07726f62",
-  "signature": "UCP_RGEkIO3fNeTRXdIQ5G2uZiKrkIKDZ47uVbTaH8pHNrCIyGOXSPSCtFXYFyc5HvpgnQ8qW62DeKYzuNLoBA"
+  "signature": "3_r12TyOCVgg4G4EqyLszdl6n56Z1TVC6X6uiOyQxNpeuRrvX3vVlkIzORqAH1WKhALw7QkmYjYVXusBk4iOAg"
 }
