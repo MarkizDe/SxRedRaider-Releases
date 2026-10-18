@@ -1,10 +1,10 @@
 {
-  "version": "2.2.72",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.72/SxRedRaider.exe",
-  "sha256": "a200bd12a95e2913682d27e71c803681e3e74585ab0edb54976dcd0b47df2381",
-  "size": 126247064,
+  "version": "2.2.73",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.73/SxRedRaider.exe",
+  "sha256": "1d790981db033b554166630d8724ffcc7ee43320f54eb9db45e3b3107a517552",
+  "size": 126247576,
   "mandatory": true,
-  "notes": "Исправлена повреждённая сборка 2.2.71: версия 2.2.72 полностью проверена распаковкой всех файлов PyInstaller и модулей PYZ до публикации. Сохранены исправления публикации ссылок, добавлен выбор GPT-6 Sol и GPT-4.1 для комментариев. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
+  "notes": "Исправлен постинг ссылок: готовая карточка Reddit с точным доменом и активной кнопкой Post теперь сразу считается подтверждённой. После формирования карточки софт больше не ищет исчезнувшее URL-поле и не запускает повторный ввод. Исправление действует в приложении и веб-режиме. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
   "key_id": "d401d20c07726f62",
-  "signature": "kMPh_jEkOBE87BNSOFLBP0QVfcPdHO220sybSW8aTBLUZAQjIUI8CemDxwM_Zah5uBLIth2blLPTF2o_XvCLCw"
+  "signature": "QiHiG2MgkihXdCaCle2xiKsyVvUy_O90NIGK_-JoPNryeMu2R4Mm4Ug7s3YawubQj3S45kHtk8BzNOfReSfyDA"
 }
