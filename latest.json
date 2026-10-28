@@ -1,10 +1,10 @@
 {
-  "version": "2.2.73",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.73/SxRedRaider.exe",
-  "sha256": "1d790981db033b554166630d8724ffcc7ee43320f54eb9db45e3b3107a517552",
-  "size": 126247576,
+  "version": "2.2.74",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.74/SxRedRaider.exe",
+  "sha256": "c904a090b3cc1f5b25dc3b453b36daab458d584ecaf72595ea546ee08e16ece2",
+  "size": 126292657,
   "mandatory": true,
-  "notes": "Исправлен постинг ссылок: готовая карточка Reddit с точным доменом и активной кнопкой Post теперь сразу считается подтверждённой. После формирования карточки софт больше не ищет исчезнувшее URL-поле и не запускает повторный ввод. Исправление действует в приложении и веб-режиме. Настройки, лицензия, планы, очереди, прокси и журналы сохраняются.",
+  "notes": "Улучшен Комбо-план: любой добавленный шаг теперь можно полностью отредактировать двойным кликом или кнопкой. Область списка шагов увеличена. Добавлены циклы: весь план можно повторить от 1 до 100 раз с отображением текущего круга и шага. Количество кругов и режим перемешивания сохраняются. Уже опубликованные Posting-задания повторно не отправляются.",
   "key_id": "d401d20c07726f62",
-  "signature": "QiHiG2MgkihXdCaCle2xiKsyVvUy_O90NIGK_-JoPNryeMu2R4Mm4Ug7s3YawubQj3S45kHtk8BzNOfReSfyDA"
+  "signature": "ncCzKccUXCmmsWHSLabl4EinsZ0XgSrBZCTn6EMcAX714WEYSFru0mBq_LUuPqXmyWj2HxMEhmpWpz3x-dtDDg"
 }
