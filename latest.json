@@ -1,10 +1,10 @@
 {
-  "version": "2.2.74",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.74/SxRedRaider.exe",
-  "sha256": "c904a090b3cc1f5b25dc3b453b36daab458d584ecaf72595ea546ee08e16ece2",
-  "size": 126292657,
+  "version": "2.2.75",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.75/SxRedRaider.exe",
+  "sha256": "ffb3ee72c1c2aac62dadb073400332fef620be7ccf15d917b99091a89a170380",
+  "size": 126995569,
   "mandatory": true,
-  "notes": "Улучшен Комбо-план: любой добавленный шаг теперь можно полностью отредактировать двойным кликом или кнопкой. Область списка шагов увеличена. Добавлены циклы: весь план можно повторить от 1 до 100 раз с отображением текущего круга и шага. Количество кругов и режим перемешивания сохраняются. Уже опубликованные Posting-задания повторно не отправляются.",
+  "notes": "Исправлен длительный прогрев: watchdog теперь учитывает выбранную длительность каждой сессии и не завершает её через 1500 секунд. Исправление действует в обычном режиме «Прогрев» и во всех шагах прогрева Combo/Plan. Также исправлен запуск Reddit при восстановленной вкладке другого сайта.",
   "key_id": "d401d20c07726f62",
-  "signature": "ncCzKccUXCmmsWHSLabl4EinsZ0XgSrBZCTn6EMcAX714WEYSFru0mBq_LUuPqXmyWj2HxMEhmpWpz3x-dtDDg"
+  "signature": "8vketJNyFD2YcLj1F-JOVyWm6OuC_BcXMzTiS1Vlojl8QhZfOSmRSmtmTEw4f6KXjPeop3XLffWrCABUitmdAA"
 }
