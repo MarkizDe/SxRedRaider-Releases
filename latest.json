@@ -1,10 +1,10 @@
 {
-  "version": "2.2.75",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.75/SxRedRaider.exe",
-  "sha256": "ffb3ee72c1c2aac62dadb073400332fef620be7ccf15d917b99091a89a170380",
-  "size": 126995569,
+  "version": "2.2.76",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.76/SxRedRaider.exe",
+  "sha256": "d1ffe2a18bf7e9c737cc661f38674362504c327bba55d6cb48efde943896cffd",
+  "size": 127008910,
   "mandatory": true,
-  "notes": "Исправлен длительный прогрев: watchdog теперь учитывает выбранную длительность каждой сессии и не завершает её через 1500 секунд. Исправление действует в обычном режиме «Прогрев» и во всех шагах прогрева Combo/Plan. Также исправлен запуск Reddit при восстановленной вкладке другого сайта.",
+  "notes": "Добавлены отдельные настройки прогрева после комментария и после публикации. Параметры доступны в обычных режимах и Combo/Plan, сохраняются в очередях и шагах плана. Watchdog учитывает суммарную длительность прогрева до и после действия и не завершает корректную сессию раньше времени.",
   "key_id": "d401d20c07726f62",
-  "signature": "8vketJNyFD2YcLj1F-JOVyWm6OuC_BcXMzTiS1Vlojl8QhZfOSmRSmtmTEw4f6KXjPeop3XLffWrCABUitmdAA"
+  "signature": "wo7RVGTIq7JbF3-9WoEkLH18DbmyG2BN4EDKXvbhAsA1Np7Hf8DZyTVWKFZaoUbIzH8upuc4ijjoJQQHD_JwCA"
 }
