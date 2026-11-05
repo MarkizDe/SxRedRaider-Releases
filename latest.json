@@ -1,10 +1,10 @@
 {
-  "version": "2.2.76",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.76/SxRedRaider.exe",
-  "sha256": "d1ffe2a18bf7e9c737cc661f38674362504c327bba55d6cb48efde943896cffd",
-  "size": 127008910,
+  "version": "2.2.77",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.77/SxRedRaider.exe",
+  "sha256": "07f46e6074f37963511cfe4fbedf58a9d46f52c9435b02784c13b1380f7f5388",
+  "size": 127024191,
   "mandatory": true,
-  "notes": "Добавлены отдельные настройки прогрева после комментария и после публикации. Параметры доступны в обычных режимах и Combo/Plan, сохраняются в очередях и шагах плана. Watchdog учитывает суммарную длительность прогрева до и после действия и не завершает корректную сессию раньше времени.",
+  "notes": "В Posting добавлены сценарии: один эмулятор может последовательно выполнить несколько постов с отдельным прогревом после каждого. Несколько сценариев ставятся в общую очередь и выполняются строго один за другим; следующий сценарий можно добавить во время работы текущего. Обычная очередь Posting сохранена.",
   "key_id": "d401d20c07726f62",
-  "signature": "wo7RVGTIq7JbF3-9WoEkLH18DbmyG2BN4EDKXvbhAsA1Np7Hf8DZyTVWKFZaoUbIzH8upuc4ijjoJQQHD_JwCA"
+  "signature": "pzg2ybXhFY5WmjFo3JRxzKb2Z5417TWl0TdycHJvzkhZ3xXmk5cOoZCFulTkzz1gQDBGWdnszI68Z61P8-o1Dg"
 }
