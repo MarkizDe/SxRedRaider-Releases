@@ -1,10 +1,10 @@
 {
-  "version": "2.2.77",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.77/SxRedRaider.exe",
-  "sha256": "07f46e6074f37963511cfe4fbedf58a9d46f52c9435b02784c13b1380f7f5388",
-  "size": 127024191,
+  "version": "2.2.78",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.78/SxRedRaider.exe",
+  "sha256": "3f3168c9cf9a78c2e8b792ed8abd8203b03918d106bb74f596a5343fcec27f50",
+  "size": 127025080,
   "mandatory": true,
-  "notes": "В Posting добавлены сценарии: один эмулятор может последовательно выполнить несколько постов с отдельным прогревом после каждого. Несколько сценариев ставятся в общую очередь и выполняются строго один за другим; следующий сценарий можно добавить во время работы текущего. Обычная очередь Posting сохранена.",
+  "notes": "Исправлен нативный Posting: неудачная проверка Join больше не повторяется перед Create, скрытая нижняя кнопка восстанавливается повторным открытием целевого сабреддита, а после выбора flair программа закрывает оставшуюся клавиатуру и возвращает верхнюю кнопку Post.",
   "key_id": "d401d20c07726f62",
-  "signature": "pzg2ybXhFY5WmjFo3JRxzKb2Z5417TWl0TdycHJvzkhZ3xXmk5cOoZCFulTkzz1gQDBGWdnszI68Z61P8-o1Dg"
+  "signature": "qRVfo_ke2yP7flCDOCRPlFvFhRKudiNKvVoOBC_ktkZVdstmp-yl_0SlKQTnK951kyaxhfNvfMpgspJkoNyDCA"
 }
