@@ -1,10 +1,10 @@
 {
-  "version": "2.2.79",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.79/SxRedRaider.exe",
-  "sha256": "ee42c2567c4631746cfb520f8afe3061c1610f8d6f74ceac988c3ae79d61ad54",
-  "size": 127124058,
+  "version": "2.2.80",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.80/SxRedRaider.exe",
+  "sha256": "5bdc65cf51dc1e22c21ab5c33a23f6812ef53cb1da46200035e8f2b6c4703930",
+  "size": 127111766,
   "mandatory": true,
-  "notes": "В разделе «Данные прокси» добавлена массовая замена прокси в Super Proxy на выбранных эмуляторах: программа последовательно запускает устройства, безопасно заменяет сервер, порт, логин и пароль, сохраняет профиль и показывает результат по каждому эмулятору.",
+  "notes": "Исправлена замена прокси в Super Proxy: полностью убрана ошибочная зависимость от ADB Keyboard. Программа больше не устанавливает APK и не переключает клавиатуру, а очищает и заполняет поля штатным Android-вводом.",
   "key_id": "d401d20c07726f62",
-  "signature": "z9ygOMi1MHPbZ8zM8uXvqMDcbUO_uS5Zz_ZydTTdJVk3UYL0ipN_cNAepyT5IuEXwVhLdaZyDmEDHflnJ3glCg"
+  "signature": "OwyClWF8FcEKCeIdDEMwmMUxht_tIJ53-hNVmLpAS2EHGTA7Q2y5A_W7n-fEZrVRtNECwABo6Mw7qJWIkwk7DA"
 }
