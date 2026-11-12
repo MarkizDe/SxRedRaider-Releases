@@ -1,10 +1,10 @@
 {
-  "version": "2.2.78",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.78/SxRedRaider.exe",
-  "sha256": "3f3168c9cf9a78c2e8b792ed8abd8203b03918d106bb74f596a5343fcec27f50",
-  "size": 127025080,
+  "version": "2.2.79",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.79/SxRedRaider.exe",
+  "sha256": "ee42c2567c4631746cfb520f8afe3061c1610f8d6f74ceac988c3ae79d61ad54",
+  "size": 127124058,
   "mandatory": true,
-  "notes": "Исправлен нативный Posting: неудачная проверка Join больше не повторяется перед Create, скрытая нижняя кнопка восстанавливается повторным открытием целевого сабреддита, а после выбора flair программа закрывает оставшуюся клавиатуру и возвращает верхнюю кнопку Post.",
+  "notes": "В разделе «Данные прокси» добавлена массовая замена прокси в Super Proxy на выбранных эмуляторах: программа последовательно запускает устройства, безопасно заменяет сервер, порт, логин и пароль, сохраняет профиль и показывает результат по каждому эмулятору.",
   "key_id": "d401d20c07726f62",
-  "signature": "qRVfo_ke2yP7flCDOCRPlFvFhRKudiNKvVoOBC_ktkZVdstmp-yl_0SlKQTnK951kyaxhfNvfMpgspJkoNyDCA"
+  "signature": "z9ygOMi1MHPbZ8zM8uXvqMDcbUO_uS5Zz_ZydTTdJVk3UYL0ipN_cNAepyT5IuEXwVhLdaZyDmEDHflnJ3glCg"
 }
