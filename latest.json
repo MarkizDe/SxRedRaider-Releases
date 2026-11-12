@@ -1,10 +1,10 @@
 {
-  "version": "2.2.80",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.80/SxRedRaider.exe",
-  "sha256": "5bdc65cf51dc1e22c21ab5c33a23f6812ef53cb1da46200035e8f2b6c4703930",
-  "size": 127111766,
+  "version": "2.2.81",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.81/SxRedRaider.exe",
+  "sha256": "431b4ee31f144722ef32e6ce60d5f84859fd3f44cc3e83a4ea8470bbdd861cf8",
+  "size": 127120609,
   "mandatory": true,
-  "notes": "Исправлена замена прокси в Super Proxy: полностью убрана ошибочная зависимость от ADB Keyboard. Программа больше не устанавливает APK и не переключает клавиатуру, а очищает и заполняет поля штатным Android-вводом.",
+  "notes": "Исправлена замена прокси в Super Proxy: распознаются поля интерфейса Jetpack Compose, корректно обрабатывается маска пароля и сохраняются новые данные без ADB Keyboard.",
   "key_id": "d401d20c07726f62",
-  "signature": "OwyClWF8FcEKCeIdDEMwmMUxht_tIJ53-hNVmLpAS2EHGTA7Q2y5A_W7n-fEZrVRtNECwABo6Mw7qJWIkwk7DA"
+  "signature": "9DgoUnosg1YgWtumK3UwXJ69Rv51w3Q7GI2XoqmcMRwIKtvX-zEi6ct6AqgQRhmfIqlUx-akDgaUx3SqUzx9DQ"
 }
