@@ -1,10 +1,10 @@
 {
-  "version": "2.2.81",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.81/SxRedRaider.exe",
-  "sha256": "431b4ee31f144722ef32e6ce60d5f84859fd3f44cc3e83a4ea8470bbdd861cf8",
-  "size": 127120609,
+  "version": "2.2.82",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.82/SxRedRaider.exe",
+  "sha256": "950a5f9de4b1716ed3b58a8adf16556779804c02612027a2414afa1c73cf7f78",
+  "size": 126949540,
   "mandatory": true,
-  "notes": "Исправлена замена прокси в Super Proxy: распознаются поля интерфейса Jetpack Compose, корректно обрабатывается маска пароля и сохраняются новые данные без ADB Keyboard.",
+  "notes": "Усилена защита приложения: ключевая логика собрана в 42 нативных модуля, добавлен автоматический аудит сборки и усилена проверка лицензионной сессии.",
   "key_id": "d401d20c07726f62",
-  "signature": "9DgoUnosg1YgWtumK3UwXJ69Rv51w3Q7GI2XoqmcMRwIKtvX-zEi6ct6AqgQRhmfIqlUx-akDgaUx3SqUzx9DQ"
+  "signature": "8kC-SYetIBeRAQrZiWCipeJUBjhcAyyQgEXXG87BC8j6VMlyBi7MbAHqzIuUZTaerOXHIwa1LMrCVCxjOXD-Cg"
 }
