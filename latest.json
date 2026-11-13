@@ -1,10 +1,10 @@
 {
-  "version": "2.2.86",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.86/SxRedRaider.exe",
-  "sha256": "2a419b5c97908d9b09c0d55ce4c1c0f1a672fd10cdbbffad58d634746e607334",
-  "size": 126993179,
+  "version": "2.2.87",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.87/SxRedRaider.exe",
+  "sha256": "cf1c1b77cc7440833b118691b3856044592569470aa6a6ca57632da915087f3d",
+  "size": 126991903,
   "mandatory": true,
-  "notes": "Исправлена замена прокси в Super Proxy: после порта программа не открывает Authentication method, прокручивает форму к настоящим полям Username и Password и проверяет значения перед сохранением.",
+  "notes": "Восстановлена работа кнопок в защищённой EXE-сборке: Apply и выбор эмуляторов снова работают в Комбо/Плане, прогреве, комментариях, FullAuto, AI Beta и замене прокси.",
   "key_id": "d401d20c07726f62",
-  "signature": "94z1CIsqCMqa5Yb5weIr4ArGByuEM5SdrrHFM7j37eFJ4ENUQluitaw6rSpMt10MSYc5zxn9TBtiYYG7eVWFBA"
+  "signature": "VC2gu_5cQaCyoWqh7NM9v6_jyz6LlxeC8XauX2V6L6_z8A7gE8hLTHYq_BTXIdFahWXJAt9_7xSwMxxZ8bJODg"
 }
