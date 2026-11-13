@@ -1,10 +1,10 @@
 {
-  "version": "2.2.83",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.83/SxRedRaider.exe",
-  "sha256": "e98c1bf2e928600cb4419a59f8fb20ed104fc5a023d03b5a38c837a4e9398fbf",
-  "size": 126956385,
+  "version": "2.2.84",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.84/SxRedRaider.exe",
+  "sha256": "233ea54e1dfa540cd5c03dd32550ea0a6867f5532e029b7ea94e5f9b9f554d6f",
+  "size": 126959613,
   "mandatory": true,
-  "notes": "Исправлены аварийные закрытия при проверке обновлений, выборе эмуляторов, обновлении постинга, запуске прогрева и других кнопочных действиях.",
+  "notes": "Исправлена неполная очистка старых данных Super Proxy: поля полностью очищаются и проверяются перед вводом и сохранением новых значений.",
   "key_id": "d401d20c07726f62",
-  "signature": "ycJOh-2CYVIwSTG2ianLjyM6tSPgugQQf6-W-piLTZ1lxtqO9DlvRzJSBZ--_XZPzJlwazgXcxCfL2sY5HhHDw"
+  "signature": "TmXxmmHvlQOCaKShycm-ODCunoUUqod4hBUO7HjUViINejbtQvv9KM_-f0vQBMyo7YJsLgb0sSnoedsXcECiDw"
 }
