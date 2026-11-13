@@ -1,10 +1,10 @@
 {
-  "version": "2.2.84",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.84/SxRedRaider.exe",
-  "sha256": "233ea54e1dfa540cd5c03dd32550ea0a6867f5532e029b7ea94e5f9b9f554d6f",
-  "size": 126959613,
+  "version": "2.2.85",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.85/SxRedRaider.exe",
+  "sha256": "22aabb170a806bbc77204a036e69ac9ae0db96639138670069e23d51f842932a",
+  "size": 126988987,
   "mandatory": true,
-  "notes": "Исправлена неполная очистка старых данных Super Proxy: поля полностью очищаются и проверяются перед вводом и сохранением новых значений.",
+  "notes": "Исправлена замена прокси в Super Proxy: программа подтверждает фокус каждого поля, не допускает ввод логина или пароля в порт, открывает существующий Default Profile со стартового списка и проверяет всю форму перед сохранением.",
   "key_id": "d401d20c07726f62",
-  "signature": "TmXxmmHvlQOCaKShycm-ODCunoUUqod4hBUO7HjUViINejbtQvv9KM_-f0vQBMyo7YJsLgb0sSnoedsXcECiDw"
+  "signature": "fuXUmQttaNvmxLKL8qRPnT_Ph5mwsbrUpuTJcbV56SVDJTLEOhuz29CgAYzEDaEDla-TdoFsjh3af2wX6dtTCA"
 }
