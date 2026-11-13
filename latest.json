@@ -1,10 +1,10 @@
 {
-  "version": "2.2.82",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.82/SxRedRaider.exe",
-  "sha256": "950a5f9de4b1716ed3b58a8adf16556779804c02612027a2414afa1c73cf7f78",
-  "size": 126949540,
+  "version": "2.2.83",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.83/SxRedRaider.exe",
+  "sha256": "e98c1bf2e928600cb4419a59f8fb20ed104fc5a023d03b5a38c837a4e9398fbf",
+  "size": 126956385,
   "mandatory": true,
-  "notes": "Усилена защита приложения: ключевая логика собрана в 42 нативных модуля, добавлен автоматический аудит сборки и усилена проверка лицензионной сессии.",
+  "notes": "Исправлены аварийные закрытия при проверке обновлений, выборе эмуляторов, обновлении постинга, запуске прогрева и других кнопочных действиях.",
   "key_id": "d401d20c07726f62",
-  "signature": "8kC-SYetIBeRAQrZiWCipeJUBjhcAyyQgEXXG87BC8j6VMlyBi7MbAHqzIuUZTaerOXHIwa1LMrCVCxjOXD-Cg"
+  "signature": "ycJOh-2CYVIwSTG2ianLjyM6tSPgugQQf6-W-piLTZ1lxtqO9DlvRzJSBZ--_XZPzJlwazgXcxCfL2sY5HhHDw"
 }
