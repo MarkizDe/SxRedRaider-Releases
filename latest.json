@@ -1,10 +1,10 @@
 {
-  "version": "2.2.87",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.87/SxRedRaider.exe",
-  "sha256": "cf1c1b77cc7440833b118691b3856044592569470aa6a6ca57632da915087f3d",
-  "size": 126991903,
+  "version": "2.2.88",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.88/SxRedRaider.exe",
+  "sha256": "3eb74deb84a8b9cf555e01a04b9ea0b47a446faf88284c338c40be39d9156039",
+  "size": 127009512,
   "mandatory": true,
-  "notes": "Восстановлена работа кнопок в защищённой EXE-сборке: Apply и выбор эмуляторов снова работают в Комбо/Плане, прогреве, комментариях, FullAuto, AI Beta и замене прокси.",
+  "notes": "Комментарии очищаются от неподдерживаемого Unicode и автоматически вводятся повторно при сбое. В прогреве добавлено завершение по заданному числу полных кругов.",
   "key_id": "d401d20c07726f62",
-  "signature": "VC2gu_5cQaCyoWqh7NM9v6_jyz6LlxeC8XauX2V6L6_z8A7gE8hLTHYq_BTXIdFahWXJAt9_7xSwMxxZ8bJODg"
+  "signature": "DlgBFksLhjKyoCAy7Vp1IQ8cnjXiMtA3Lpt0sByUbvX2i8CmVIiM_KEL6-YBGsqtlPTGfLjzI-4o-zo4qi73CQ"
 }
