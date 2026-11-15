@@ -1,10 +1,10 @@
 {
-  "version": "2.2.88",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.88/SxRedRaider.exe",
-  "sha256": "3eb74deb84a8b9cf555e01a04b9ea0b47a446faf88284c338c40be39d9156039",
-  "size": 127009512,
+  "version": "2.2.89",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.89/SxRedRaider.exe",
+  "sha256": "9d9146196547e5ee265e28190320ba79cd24df5f38fd6504fdab1a364fc493a3",
+  "size": 127013155,
   "mandatory": true,
-  "notes": "Комментарии очищаются от неподдерживаемого Unicode и автоматически вводятся повторно при сбое. В прогреве добавлено завершение по заданному числу полных кругов.",
+  "notes": "Chrome сохраняет активную вкладку Reddit при завершении, закрывает только лишние вкладки и получает время на запись cookies перед корректным выключением эмулятора.",
   "key_id": "d401d20c07726f62",
-  "signature": "DlgBFksLhjKyoCAy7Vp1IQ8cnjXiMtA3Lpt0sByUbvX2i8CmVIiM_KEL6-YBGsqtlPTGfLjzI-4o-zo4qi73CQ"
+  "signature": "E1RrUtLGpuDTv74txIi3VePJ0wGssTNczpeAnIkOntQfI237FxN50nawObwZS253LFQh-xDdSveTsGofsoABDg"
 }
