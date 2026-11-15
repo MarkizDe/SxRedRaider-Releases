@@ -1,10 +1,10 @@
 {
-  "version": "2.2.89",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.89/SxRedRaider.exe",
-  "sha256": "9d9146196547e5ee265e28190320ba79cd24df5f38fd6504fdab1a364fc493a3",
-  "size": 127013155,
+  "version": "2.2.90",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.90/SxRedRaider.exe",
+  "sha256": "1319195b3293541edb8c68c2d2022a680faa097aad31a067aec8b2ba5e1c629a",
+  "size": 127024904,
   "mandatory": true,
-  "notes": "Chrome сохраняет активную вкладку Reddit при завершении, закрывает только лишние вкладки и получает время на запись cookies перед корректным выключением эмулятора.",
+  "notes": "Поддержаны горизонтальные flair в нативном Reddit; во всех режимах окно NSFW Content безопасно подтверждается кнопкой Continue.",
   "key_id": "d401d20c07726f62",
-  "signature": "E1RrUtLGpuDTv74txIi3VePJ0wGssTNczpeAnIkOntQfI237FxN50nawObwZS253LFQh-xDdSveTsGofsoABDg"
+  "signature": "a4U-0iys8nCZyMEP54Ry40JisFEQ4ctsVqAnVLv0O_hpye1sNBXWV1NPcffu8LZMYOu_2Lp5MO9CJyDb_iRDDg"
 }
