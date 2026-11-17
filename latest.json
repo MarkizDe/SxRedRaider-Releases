@@ -1,10 +1,10 @@
 {
-  "version": "2.2.90",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.90/SxRedRaider.exe",
-  "sha256": "1319195b3293541edb8c68c2d2022a680faa097aad31a067aec8b2ba5e1c629a",
-  "size": 127024904,
+  "version": "2.2.91",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.91/SxRedRaider.exe",
+  "sha256": "9ad5b3554744b054df563ebf4309d375764b1e0e2690ca193dccc2a83b75866e",
+  "size": 127027256,
   "mandatory": true,
-  "notes": "Поддержаны горизонтальные flair в нативном Reddit; во всех режимах окно NSFW Content безопасно подтверждается кнопкой Continue.",
+  "notes": "Исправлен выбор горизонтальных flair в нативном Reddit: экранная клавиатура больше не принимается за список flair.",
   "key_id": "d401d20c07726f62",
-  "signature": "a4U-0iys8nCZyMEP54Ry40JisFEQ4ctsVqAnVLv0O_hpye1sNBXWV1NPcffu8LZMYOu_2Lp5MO9CJyDb_iRDDg"
+  "signature": "a8gZRS2jZQja1kUkX5lQf3SIsmHFzt20Dh5l5MmHC16-o0BFonKc6qH6YvwC00b3xiVnPvlalQr-QYUxPIYqDw"
 }
