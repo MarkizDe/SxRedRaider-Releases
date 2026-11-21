@@ -1,10 +1,10 @@
 {
-  "version": "2.2.91",
-  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.91/SxRedRaider.exe",
-  "sha256": "9ad5b3554744b054df563ebf4309d375764b1e0e2690ca193dccc2a83b75866e",
-  "size": 127027256,
+  "version": "2.2.92",
+  "url": "https://github.com/MarkizDe/SxRedRaider-Releases/releases/download/v2.2.92/SxRedRaider.exe",
+  "sha256": "c8d5c70b587a1c47f42ef659a9eccbcba30fed5ee6fb6977fa83a9510ae4f3b8",
+  "size": 127062170,
   "mandatory": true,
-  "notes": "Исправлен выбор горизонтальных flair в нативном Reddit: экранная клавиатура больше не принимается за список flair.",
+  "notes": "Полноценный прогрев до и после поста, быстрый старт режимов и поддержка новых вариантов нижней кнопки Create в Reddit.",
   "key_id": "d401d20c07726f62",
-  "signature": "a8gZRS2jZQja1kUkX5lQf3SIsmHFzt20Dh5l5MmHC16-o0BFonKc6qH6YvwC00b3xiVnPvlalQr-QYUxPIYqDw"
+  "signature": "RWP_Vu3qURrjKx_BM0vZN85DZJl4pbcd-h33LLUjasZdo1Zkdc1YWn2OC_4DioQAnZygh5fAALv1q-ouRjhuAw"
 }
